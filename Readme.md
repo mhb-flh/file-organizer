@@ -16,5 +16,3 @@
  Before: Files like `photo.jpg`, `doc.pdf`, `clip.mp4` are in a single folder.
  After: Files are moved to `Images`, `Documents`, `Videos`, or `Others` folders.
  
- ## Author
- Mahboubeh Fallahi
